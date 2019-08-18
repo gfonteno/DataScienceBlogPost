@@ -29,26 +29,24 @@ The overall data is aggregated by platform with the sums of each sales region. T
 
 Question 2: Understand how video games are distributed across different Genre's
 
-In the chart below, I was interested if breaking into the field with certain methods would lead to jobs with higher satisfaction or salary. The blue bars represent a comparison of job satisfaction to the average job satisfaction (which is represented at 0.00), while the red bars represent a comparison of salary to the average salary of those provided in the dataset.
+In the chart below, I was interested in understanding the distribution of game sales based on genre. THe thought here is see where i fit into the overall model (knowing i like the strategy games like Pacman and Galaga, where do fall relative to other users).
+
+Much like action movies, action video games appear to provide the foundation to the generous sales.
 
 [place image here]
-
-The first finding is interesting, as coding competitions tend to simulate an online version of a hackathon. Similarly, depending on your college experience, undergrad was a more fun, less work version of graduate school. This finding might have to do more with individual perspective of life and personality, than truly “fun” jobs.
-
-
 
 
 
 
 Question 3: Predict the Platform sales based on sales reportings
 
-Finally, I wondered if there might be bias related to those with higher formal education suggesting that as a method to break into the field. This could be taken further to an idea of
+Finally, I wondered if there might be bias related to specifc video game platforms suggesting the sales for a specifc region.
 
-In order to take a closer look at this, I divided the data into two groups. One of the groups was a group that marked that their highest degree completed was more than Bachelor’s. In the case of the data, these individuals earned either a Professional, Master’s, or PhD. All other survey respondents, which were those with a Bachelor’s or lower degree earned as their highest formal degree, were in a second group.
+In order to take a closer look at this, I divided the data into two groups. One of the groups was a group that referred to each of the sales regions of interest and the other of the various video game platforms. 
 
 [place image here]
 
-Here, we can see that those who have earned one of these higher degrees propose Master’s Degrees as a method to break into the field almost 3% more than those who did not attain a higher formal degree.
+Here, we can see that the projection of overall sales it set to increase.
 
 Conclusion
 
